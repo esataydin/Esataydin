@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Esat and I'm a data scientist and backend developer from Türkiye</h2>
+<h2 align="left">Hi 👋! My name is Esat and I'm a DevOps Engineer from Türkiye</h2>
 
 ###
 
